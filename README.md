@@ -164,6 +164,8 @@ Ask all three:
 
 Who gave the clearest, most useful guidance?
 
+ChatGPT !!!
+
 <br />
 
 ## :white_check_mark: Submission Checklist
